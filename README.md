@@ -1,2 +1,1 @@
-# deli-focaccia
-bread
+# bread
